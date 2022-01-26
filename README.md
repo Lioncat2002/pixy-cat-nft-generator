@@ -1,4 +1,4 @@
-# boxy-cat-nft-generator
+# pixy-cat-nft-generator
 NFT generator I made for my collection
 
 ## Prerequisites:
